@@ -1,1 +1,1 @@
-{"name":"tijarah","version":"1.0.0","private":true,"scripts":{"start":"node server.js"},"dependencies":{"@supabase/supabase-js":"^2.57.0","express":"^4.21.2","cors":"^2.8.5"}}
+{"name":"tijarah","version":"1.0.0","private":true,"scripts":{"start":"node cloud-wrapper.js"},"dependencies":{"@supabase/supabase-js":"^2.57.0","express":"^4.21.2","cors":"^2.8.5"}}
